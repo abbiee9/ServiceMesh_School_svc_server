@@ -1,0 +1,4 @@
+com\school\SchoolAppApplication.class
+com\school\service\SchoolServiceImpl.class
+com\school\controller\impl\SchoolControllerImpl.class
+com\school\service\SchoolService.class
